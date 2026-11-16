@@ -1,172 +1,143 @@
-<!-- Profile Banner -->
 <div align="center">
-  <img src="./github-banner.png" alt="Yana Parikh - AI, Software and Product Building" width="100%">
+
+<img src="./assets/banner.svg" alt="Yana Parikh - AI, Software and Product Building" width="100%"/>
+
+<a href="https://github.com/YanaParikh04/YanaParikh04">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=B9A8FF&center=true&vCenter=true&width=640&lines=Building+AI+agents+and+Android+apps;Generative+AI+%2B+product+thinking;Google+Student+Ambassador+2026;Learning+in+public%2C+shipping+often" alt="Typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yanaparikh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://yanaparikh-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://g.dev/Yanaparikh"><img src="https://img.shields.io/badge/Google_Developer_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+<a href="https://www.instagram.com/_yanaparikh_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=YanaParikh04&label=Profile+views&color=7C5CFF&style=flat-square" alt="Profile views"/>
+
 </div>
-
-<h1 align="center">Hi, I'm Yana Parikh 👋</h1>
-
-<h3 align="center">B.Tech IT Student | AI & Generative AI | Software Development | Product Building</h3>
-
-<p align="center">
-  <a href="https://github.com/YanaParikh04">
-    <img src="https://img.shields.io/badge/GitHub-YanaParikh04-181717?style=flat&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/yanaparikh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://yanaparikh-portfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C8B74?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm an Information Technology student passionate about building technology-driven solutions at the intersection of Artificial Intelligence, software development, and real-world problem-solving.
+I'm an Information Technology student at Sigma University (Vadodara, India) working where AI, software development and real-world problem solving meet. I like turning an idea into a working product, and I spend my time on AI agents, Generative AI, automation and Android apps. I also help run student tech communities.
 
-I enjoy exploring emerging technologies, experimenting with AI tools, developing applications, and turning ideas into practical products. Alongside technical development, I actively contribute to student technology communities and initiatives.
+- 🎓 B.Tech in Information Technology, Sigma University
+- 🤖 Exploring Generative AI, AI agents and automation
+- 📱 Building Android apps and AI-powered products
+- 🌐 Google Student Ambassador 2026 and Google Product Expert
+- ☁️ AWS Student Builder Group Leader at Sigma University
 
-- 🎓 Pursuing B.Tech in Information Technology at Sigma University.
-- 🤖 Interested in Artificial Intelligence, Generative AI, AI Agents, and automation.
-- 💻 Building software applications and AI-powered products.
-- 🌐 Google Student Ambassador 2026.
-- ☁️ AWS Student Builder Group Leader at Sigma University.
-- 🌟 Google Product Expert.
-- 🧠 AI Automation & Intelligent Solutions Intern through IBM SkillsBuild, AICTE & CSRBOX.
-- 🤝 Interested in technology communities, product development, and collaborative learning.
-
-## 💼 Experience & Community Leadership
+## Experience and community
 
 | Role | Organization |
-|---|---|
-| Google Product Expert | Google |
+| :-- | :-- |
 | Google Student Ambassador 2026 | Google |
+| Google Product Expert | Google |
 | Student Builder Group Leader | AWS |
-| AI Automation & Intelligent Solutions Intern | IBM SkillsBuild · AICTE · CSRBOX |
-| AI Strategy & Business Intelligence Intern | IBM SkillsBuild · AICTE · CSRBOX |
+| AI Automation and Intelligent Solutions Intern | IBM SkillsBuild · AICTE · CSRBOX |
+| AI Strategy and Business Intelligence Intern | IBM SkillsBuild · AICTE · CSRBOX |
 
-## 🛠️ Tech Stack & Tools
+## Tech stack
 
-### Programming & Development
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql,sqlite,mongodb,firebase,supabase&perline=10" alt="Languages and databases"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,docker,vscode&perline=10" alt="Tools"/>
+<br/><br/>
 
-### AI & Emerging Technologies
+<img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6C8B74?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-333333?style=for-the-badge"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge" alt="Generative AI">
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6C8B74?style=for-the-badge" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/AI_Agents-333333?style=for-the-badge" alt="AI Agents">
-</p>
+</div>
 
-### Databases & Backend
+## Featured projects
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CampusPilot</h3>
+      A student companion built around specialised AI agents: Planner, Tutor, Quiz, Motivation and Focus Guardian.<br/><br/>
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Lovable_AI-FF4F8B?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Saarthi</h3>
+      An AI-assisted solution in development, focused on multilingual interaction, accessibility and offline data sync.<br/><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/YanaParikh04/TapLock">TapLock</a></h3>
+      A lightweight Android app that locks the screen with a single tap, using the Device Administration API.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/YanaParikh04/JalKrishi-AI">JalKrishi AI</a></h3>
+      Built during my IBM learning and internship journey, exploring technology-driven agricultural solutions.<br/><br/>
+      <img src="https://img.shields.io/badge/AI-7C5CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/YanaParikh04/ATSIQ">ATSIQ</a></h3>
+      Exploring AI-assisted resume and applicant tracking workflows.
+    </td>
+  </tr>
+</table>
 
-### Mobile Development & Design
+## Certifications and achievements
 
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-6C8B74?style=for-the-badge" alt="UI/UX Design">
-</p>
+- 🏆 Best Oral Presentation, SICARSTM 2026
+- 🏆 Top 4 Finalist, InnoFest 2024
+- 📜 Google AI Essentials Specialization
+- 📜 Google Prompting Essentials
+- 📜 Kaggle 5-Day AI Agents Intensive (Vibe Coding)
+- 📜 IBM SkillsBuild: Agentic AI, From Learner to Builder
+- 📜 IBM SkillsBuild: Prompt Engineering
+- 📜 Foundation Course on AI Readiness, IICT
+- 📜 Graduation Employability Enhancement Training, Infosys Foundation
 
-### Tools & Platforms
+## GitHub activity
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-</p>
+<div align="center">
 
-## 🚀 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api?username=YanaParikh04&show_icons=true&hide_border=true&bg_color=0E1230&title_color=B9A8FF&text_color=C9C7F5&icon_color=2DD4BF&ring_color=7C5CFF" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanaParikh04&layout=compact&hide_border=true&bg_color=0E1230&title_color=B9A8FF&text_color=C9C7F5" height="165" alt="Top languages"/>
 
-### CampusPilot
+<br/><br/>
 
-An AI-powered student companion built around multiple specialized agents, including Planner, Tutor, Quiz, Motivation, and Focus Guardian.
+<!-- Generated daily by .github/workflows/profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%"/>
 
-**Technologies:** Gemini AI · Supabase · Lovable AI
+<br/>
 
-### Saarthi
+<img src="https://raw.githubusercontent.com/YanaParikh04/YanaParikh04/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
-An AI-assisted solution in development, focused on multilingual interaction, accessibility, and offline data synchronization.
+</div>
 
-**Technologies:** Firebase · Gemini AI · Figma
+## Let's connect
 
-### TapLock
+I'm always happy to meet people building meaningful products, whether that's developers, community leaders or fellow students.
 
-A lightweight Android application that lets users lock their device screen with a single tap.
+<div align="center">
 
-**Technologies:** Java · Android Studio · Device Administration API
+<a href="https://www.linkedin.com/in/yanaparikh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YanaParikh04"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://yanaparikh-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C5CFF?style=for-the-badge"/></a>
 
-[View Repository](https://github.com/YanaParikh04/TapLock)
+<br/><br/>
 
-### JalKrishi AI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1230,100:7C5CFF&height=110&section=footer&text=Curious%20by%20nature.%20Building%20with%20purpose.&fontSize=18&fontColor=F4F3FF&animation=twinkling&fontAlignY=70" width="100%"/>
 
-An AI-focused project developed during my IBM learning and internship journey, exploring technology-driven agricultural solutions.
-
-[View Repository](https://github.com/YanaParikh04/JalKrishi-AI)
-
-### ATSIQ
-
-A project exploring AI-assisted resume and applicant tracking workflows.
-
-[View Repository](https://github.com/YanaParikh04/ATSIQ)
-
-## 🏆 Certifications & Achievements
-
-- Google AI Essentials Specialization
-- Google Prompting Essentials
-- Kaggle 5-Day AI Agents Intensive – Vibe Coding Course
-- IBM SkillsBuild – Agentic AI: From Learner to Builder
-- IBM SkillsBuild – Prompt Engineering
-- Foundation Course on AI Readiness – IICT
-- Best Oral Presentation – SICARSTM 2026
-- Top 4 Finalist – InnoFest 2024
-- Graduation Employability Enhancement Training – Infosys Foundation Supported Program
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YanaParikh04&show_icons=true&theme=transparent&hide_border=true" alt="Yana's GitHub Statistics" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanaParikh04&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" height="180">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YanaParikh04&theme=transparent&hide_border=true" alt="GitHub Contribution Streak">
-</p>
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, innovators, technology communities, and people building meaningful products.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yanaparikh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/YanaParikh04">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://yanaparikh-portfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-6C8B74?style=for-the-badge" alt="Portfolio">
-  </a>
-</p>
-
-<p align="center">
-  <i>Curious by nature. Building with purpose. Learning every day.</i>
-</p>
+</div>
