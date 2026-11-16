@@ -112,8 +112,9 @@ I'm an Information Technology student at Sigma University (Vadodara, India) work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YanaParikh04&show_icons=true&hide_border=true&bg_color=0E1230&title_color=B9A8FF&text_color=C9C7F5&icon_color=2DD4BF&ring_color=7C5CFF" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanaParikh04&layout=compact&hide_border=true&bg_color=0E1230&title_color=B9A8FF&text_color=C9C7F5" height="165" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/YanaParikh04?style=for-the-badge&logo=github&color=7C5CFF&labelColor=0E1230" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/YanaParikh04?style=for-the-badge&logo=github&color=2DD4BF&labelColor=0E1230" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/YanaParikh04/YanaParikh04?style=for-the-badge&color=B9A8FF&labelColor=0E1230" alt="Last commit"/>
 
 <br/><br/>
 
