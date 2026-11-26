@@ -79,7 +79,7 @@ def languages_svg(langs, repo_count, T):
     tot = sum(v[0] for _, v in items) or 0
     top = items[:5]; rest = tot - sum(v[0] for _, v in top)
     rows = [(n, v[0], v[1]) for n, v in top] + ([("other", rest, "#8089A8")] if rest > 0 and tot else [])
-    cx, cy, R, sw = 118, 100, 46, 20
+    cx, cy, R, sw = 120, 110, 40, 18
     circ = 2 * math.pi * R
     seg, kf, off = "", "", 0.0
     if tot:
@@ -92,12 +92,12 @@ def languages_svg(langs, repo_count, T):
         seg = f'<circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="{T["line"]}" stroke-width="{sw}"/>'
     legend = ""
     for i, (n, sz, col) in enumerate(rows):
-        y = 58 + i * 25; pct = sz / tot * 100 if tot else 0
+        y = 66 + i * 24; pct = sz / tot * 100 if tot else 0
         legend += (f'<circle cx="262" cy="{y-4}" r="5" fill="{col}"/><text x="278" y="{y}" class="n">{esc(n)}</text>'
                    f'<rect x="440" y="{y-9}" width="420" height="6" rx="3" fill="{T["line"]}"/>'
                    f'<rect x="440" y="{y-9}" width="{420*pct/100:.1f}" height="6" rx="3" fill="{col}" class="b" style="animation-delay:{.3+i*.1:.1f}s"/>'
                    f'<text x="972" y="{y}" class="p">{pct:.0f}%</text>')
-    if not tot: legend = f'<text x="262" y="104" class="n">Languages appear after the first workflow run.</text>'
+    if not tot: legend = f'<text x="262" y="112" class="n">Languages appear after the first workflow run.</text>'
     foot = f"Based on {repo_count} public repositories" if tot else ""
     return f'''<svg {NS} viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Top languages across public repositories">
 <style>.t{{font-weight:700;font-size:17px;fill:{T["text"]};{SANS}}}.n{{font-size:14px;fill:{T["text"]};{SANS}}}.p{{font-size:13px;fill:{T["mid"]};text-anchor:end;{SANS}}}.f,.m{{font-size:12px;fill:{T["muted"]};{SANS}}}.m{{text-anchor:middle}}
