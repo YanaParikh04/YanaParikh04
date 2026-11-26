@@ -21,9 +21,13 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/divider.svg"><img src="./assets/light/divider.svg" alt="" width="100%"></picture>
 
-## Where I contribute
+## Experience
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/experience.svg"><img src="./assets/light/experience.svg" alt="Experience at Google, AWS and IBM SkillsBuild" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/experience.svg"><img src="./assets/light/experience.svg" alt="Experience at Google and IBM SkillsBuild" width="100%"></picture>
+
+## Volunteering
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/volunteering.svg"><img src="./assets/light/volunteering.svg" alt="Volunteering: AWS Student Builder Group Leader at Sigma University" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/divider.svg"><img src="./assets/light/divider.svg" alt="" width="100%"></picture>
 
@@ -61,6 +65,14 @@
 | Google AI Essentials Specialization | Agentic AI: From Learner to Builder | Foundation Course on AI Readiness, IICT |
 | Google Prompting Essentials | Prompt Engineering | Graduation Employability Enhancement Training, Infosys Foundation |
 | Kaggle 5-Day AI Agents Intensive (Vibe Coding) | | |
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/divider.svg"><img src="./assets/light/divider.svg" alt="" width="100%"></picture>
+
+## GitHub activity
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/contributions.svg"><img src="./assets/light/contributions.svg" alt="GitHub contribution chart for the last 52 weeks" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/languages.svg"><img src="./assets/light/languages.svg" alt="Top languages across public repositories" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/divider.svg"><img src="./assets/light/divider.svg" alt="" width="100%"></picture>
 
