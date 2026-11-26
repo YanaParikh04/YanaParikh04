@@ -22,7 +22,7 @@ jobs:
       - name: Build contribution and language cards
         run: python .github/scripts/profile_cards.py
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           GH_USER: YanaParikh04
       - name: Commit changes
         run: |
